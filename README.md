@@ -3,3 +3,7 @@ send a high/1 after a random amount of time. written in python. replace the prin
 
 ##
 use cases: getting shocked after a random amount of time
+
+##
+no packages needed
+imported from standart library ```time``` and ```random```
